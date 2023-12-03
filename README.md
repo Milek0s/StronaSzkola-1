@@ -1,0 +1,1 @@
+# StronaSzko-a1
