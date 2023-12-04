@@ -1,0 +1,41 @@
+main {
+  width: 100%;
+}
+form {
+  width: 40%;
+  margin: 50px auto;
+  background-color: white;
+  border-radius: 12px;
+  padding: 30px;
+}
+td {
+  text-align: left;
+  font-size: 20px;
+  font-weight: 700;
+}
+input,
+option,
+select {
+  height: 30px;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 4px;
+  border: 2px solid rgb(114, 188, 212);
+  margin: 4px 40px 4px 4px;
+  width: 300px;
+}
+select {
+  height: 35px;
+}
+#kup {
+  height: 50px;
+  width: 80%;
+  background: linear-gradient(#38bdf8, #0ea5e9);
+  border: 0;
+  margin: 10px 10%;
+  color: white;
+}
+#kup:hover,
+#kup:active {
+  background: linear-gradient(#0284c7, #0369a1);
+}

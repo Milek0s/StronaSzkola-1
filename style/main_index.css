@@ -32,6 +32,7 @@
 }
 .dlaczego_my h2 {
   font-size: 40px;
+  text-align: center;
 }
 .dlaczego_my div {
   float: left;
@@ -39,4 +40,13 @@
 }
 .dlaczego_my p {
   border-right: 2px dashed #7dd3fc;
+  font-size: 30px;
+}
+.dlaczego_my ul {
+  list-style-type: katakana;
+  margin-left: 100px;
+}
+.dlaczego_my li {
+  font-size: 60px;
+  color: #082f49;
 }

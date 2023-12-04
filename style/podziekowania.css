@@ -1,0 +1,27 @@
+main {
+  background-color: white;
+  border-radius: 8px;
+  padding: 30px;
+  width: 40%;
+  margin: 100px auto;
+}
+#powrot {
+  height: 50px;
+  width: 100%;
+  background: linear-gradient(#38bdf8, #0ea5e9);
+  border: 0;
+  border-radius: 4px;
+  margin: 10px auto;
+  color: white;
+  font-size: 20px;
+}
+#powrot:hover,
+#powrot:active {
+  background: linear-gradient(#0284c7, #0369a1);
+}
+a {
+  display: block;
+  width: 40%;
+  height: 50px;
+  margin: 10px auto;
+}
