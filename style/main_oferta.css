@@ -1,0 +1,75 @@
+main {
+  width: 70%;
+  margin: 10px auto;
+}
+main div {
+  width: 30%;
+  height: 400px;
+  margin: 10px;
+  background-position: center;
+  background-size: cover;
+  float: left;
+}
+main div p {
+  text-align: center;
+  position: relative;
+  margin-top: 350px;
+  height: 50px;
+  font-size: 43px;
+  color: white;
+  background: linear-gradient(135deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2));
+  backdrop-filter: blur(12px);
+  text-transform: uppercase;
+}
+h2 {
+  text-align: center;
+  font-size: 52px;
+  color: rgb(128, 128, 128);
+  font-weight: 700;
+}
+
+#sivia1 {
+  background-image: url("../img/silvia1.jpg");
+}
+#sivia2 {
+  background-image: url("../img/silvia2.jpg");
+}
+#sivia3 {
+  background-image: url("../img/silvia3.jpg");
+}
+#skyline1 {
+  background-image: url("../img/skyline1jpg.jpg");
+}
+#skyline2 {
+  background-image: url("../img/skyline2.jpg");
+}
+#skyline3 {
+  background-image: url("../img/skyline3.jpg");
+}
+#supra1 {
+  background-image: url("../img/supra1.jpg");
+}
+#supra2 {
+  background-image: url("../img/supra2jpg.jpg");
+}
+#supra3 {
+  background-image: url("../img/supra3.jpg");
+}
+#supra4 {
+  background-image: url("../img/supra4jpg.jpg");
+}
+#yaris1 {
+  background-image: url("../img/yaris1.jpg");
+}
+#yaris2 {
+  background-image: url("../img/yaris2.jpg");
+}
+#gtr {
+  background-image: url("../img/gtr2.jpg");
+}
+#miata1 {
+  background-image: url("../img/mazda1.jpg");
+}
+#miata2 {
+  background-image: url("../img/mazda2.png");
+}
